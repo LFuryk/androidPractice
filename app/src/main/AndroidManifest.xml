@@ -12,7 +12,7 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
-            android:name=".ConversorActivity"
+            android:name="com.example.lfuryk.myApp.ConversorActivity"
             android:label="@string/title_activity_first"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
