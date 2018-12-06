@@ -14,7 +14,14 @@ public class MainPresenter {
 
     }
 
-    void updateResult(String value){
+    public MainPresenter(ConversorView conversorView, Conversor conversor){
+
+        this.conversorView = conversorView;
+        this.conversor = conversor;
+
+    }
+
+    public void updateResult(String value){
 
         double miles;
         if(value.isEmpty()){

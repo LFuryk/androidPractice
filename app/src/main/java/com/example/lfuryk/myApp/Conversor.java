@@ -4,7 +4,7 @@ public class Conversor {
     private double miles;
     private double kilometers;
 
-    Conversor(){
+    public Conversor(){
         this.miles = 0;
         this.kilometers = 0;
     }
