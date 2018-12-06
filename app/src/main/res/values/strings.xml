@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="button_convert_text">Convertir</string>
+    <string name="text_view_tittle">Conversor Millas</string>
+    <string name="text_edit_input">Ingrese miles</string>
+</resources>
